@@ -6,5 +6,5 @@ git submodule update
 ./makeoverlay.sh
 
 cd buildroot
-make defconfig BR2_DEFCONFIG=../defconfig
+make defconfig BR2_DEFCONFIG=../defconf
 make
