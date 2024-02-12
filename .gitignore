@@ -1,0 +1,2 @@
+/overlay/var/lib/iwd/*
+/overlay/etc/init.d/S90xfreerdp
